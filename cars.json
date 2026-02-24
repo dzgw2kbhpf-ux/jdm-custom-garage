@@ -1,0 +1,26 @@
+[
+{
+"name":"Nissan GT-R R34",
+"engine":"RB26DETT",
+"hp":280,
+"image":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Nissan_Skyline_R34_GT-R.jpg"
+},
+{
+"name":"Toyota Supra MK4",
+"engine":"2JZ-GTE",
+"hp":280,
+"image":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Toyota_Supra_Mk4.jpg"
+},
+{
+"name":"Mazda RX-7 FD3S",
+"engine":"13B-REW",
+"hp":280,
+"image":"https://upload.wikimedia.org/wikipedia/commons/3/34/Mazda_RX-7_FD.jpg"
+},
+{
+"name":"Honda NSX NA1",
+"engine":"C30A",
+"hp":280,
+"image":"https://upload.wikimedia.org/wikipedia/commons/6/6b/Honda_NSX.jpg"
+}
+]
