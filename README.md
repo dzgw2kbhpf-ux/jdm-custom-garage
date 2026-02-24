@@ -1,1 +1,0 @@
-# jdm-custom-garage
